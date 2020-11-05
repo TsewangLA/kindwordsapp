@@ -1,7 +1,7 @@
 # kindwordsapp
 
 
-Name: Brian Ojoh Mile   Group number: 21   project name: Kind Words
+Name: Brian Ojoh Mile   Group number: 21   project name: Kind Word
 Name: Justin Mullins Group Number: 21 Project Name: Kind Words
 <<<<<<< HEAD
 Name: Anjali Sharma Group Number: 21 Project Name: Kind Words
