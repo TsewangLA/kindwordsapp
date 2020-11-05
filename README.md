@@ -14,7 +14,7 @@ Name: Tsewang Thilly Group Number: 21 Project Name: Kind Words
 * Features 
 	* Publicly post anonymous cards (letters) than can be replied to by other users of the app 
 	* Report users who post offensive content 
-	* Cards dissappear every 24hrs 
+	* Cards disappear every 24hrs 
 	* Clients are allowed to delete cards but cannot edit them 
 	* Reported cards cannot be deleted 
 	
@@ -31,8 +31,8 @@ Name: Tsewang Thilly Group Number: 21 Project Name: Kind Words
 	* Validation of acceptable inputs, and user credentials exist in database 
 
 * Public Feeds Page 
-	* Publicly avaialble letter cards are randomized before displayed to the client 
-	* Client's displayed username is also randomized (name of an animal, poet, movie character, unlimmited ideas) to keep their anonimity and prevent other users from identifying them. The client's unique id is never publicly displayed
+	* Publicly available letter cards are randomized before displayed to the client 
+	* Client's displayed username is also randomized (name of an animal, poet, movie character, unlimited ideas) to keep their anonymity and prevent other users from identifying them. The client's unique id is never publicly displayed
 	* Tinder style cards for publicly posted letters 
 	* Swipe right to reply to a letter 
 	* Swipe left to skip/ignore a letter 
@@ -43,13 +43,13 @@ Name: Tsewang Thilly Group Number: 21 Project Name: Kind Words
 	* Two sections 
 		* My Cards section 
 			* A client can view/delete their posted cards 
-			* A cleint can view replies to their posted cards 
+			* A client can view replies to their posted cards 
 			* Cards disappear after 24hrs 
 		* My Replies section
 			* Client can view cards they replied to, including their replies and subsequent replies (like a thread). But client cannot delete the cards  
 			* Cards disappear after 24hrs 
 
 * User settings Page 
-	* Cleint can delete their account (removing it from the databse, useful for testing)
+	* client can delete their account (removing it from the database, useful for testing)
 	* Deleting an account re-directs them to the register activity (aka register page)
 
